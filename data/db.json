@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Account": 2
+  },
+  "models": {
+    "Account": {
+      "1": "{\"firstName\":\"Jei\",\"lastName\":\"Devp\",\"email\":\"jeitestingdevp@gmail.com\",\"created\":\"2020-08-07T01:38:16.717Z\",\"update\":\"2020-08-07T01:38:16.717Z\",\"userName\":\"jeidevp\",\"id\":1}"
+    }
+  }
+}
